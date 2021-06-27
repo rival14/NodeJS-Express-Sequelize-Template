@@ -8,5 +8,4 @@ route.get('/users/:id', getUsers);
 route.delete('/users/:id', getUsers);
 route.delete('/users/:id', getUsers);
 
-
 export default route;
